@@ -1,0 +1,6 @@
+1) Get python 3
+2) Install requests packages
+3) Make sure Resource links file is present near this script
+4) Run it.
+5) when you update am asset on the drive, update the ResourceLinks file
+with the shared files id's.
